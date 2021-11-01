@@ -1,0 +1,68 @@
+.img{
+    height:80px;
+    width: 80px;
+    margin-left: 690px;
+    margin-top: 70px;
+}
+ .bold{
+    text-align: center;
+    font-size: xxx-large;
+}
+.small{
+    font-size:medium;
+    text-align: center;
+}
+span{
+    color: blue;
+    font-size: larger;
+}
+input{
+    margin-left: 470px;
+    padding: 10px;
+    width: 35%;
+    border: 1px solid lightgray;
+    font-size: medium;
+}
+.divide{
+    display:flex;
+}
+
+.box{
+    border:1px solid lightgray;
+    height:19px;
+    width:19px;
+    border-radius: 6px;
+    margin-left: 470px;
+    margin-right: 10px;
+    background-color: whitesmoke;
+}
+.email{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 10px;
+    font-size:larger;
+}
+.pass{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size:larger;
+}
+.one{
+    font-size:large;
+
+}
+.two{
+    margin-left: 235px;
+}
+button{
+    text-align: center;
+    margin-left:470px;
+    width: 37%;
+    padding: 12px;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    font-size: large;
+    font-weight: bolder;
+    margin-top: 20px;
+}
